@@ -4,6 +4,4 @@
 !/plot_figs.py
 !/README.md
 !/.gitignore
-!/figs
-/figs/*
-
+!/figs/
